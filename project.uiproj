@@ -1,0 +1,6 @@
+{
+  "Name": "Variables",
+  "ProjectType": "Process",
+  "Description": "Variables",
+  "MainFile": "Main.xaml"
+}
